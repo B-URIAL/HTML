@@ -12,7 +12,7 @@ h1.title{
 	font-size: calc(1rem + 1vw); 
 	text-align: center;
 	letter-spacing: 1px;
-	color: #ff00f6;
+	color: #333;
 }
 .index-h2-p {
 	font-size: calc(0.7rem + 0.8vw); 
