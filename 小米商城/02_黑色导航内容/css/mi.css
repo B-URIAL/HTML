@@ -61,4 +61,16 @@
     margin-left: -62px;
     overflow: hidden;
 }
+
+.download img{
+    width: 90px;
+    margin: 18px auto 0;
+}
+
+.download p{
+    width: 100%;
+    text-align: center;
+    font-size: 12px;
+    color: #666;
+}
 /*黑色导航栏 end*/
